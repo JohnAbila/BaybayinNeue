@@ -1,0 +1,123 @@
+FONTLOG for the “Baybayin Neue” Typeface/Font Family
+
+
+This file provides detailed information on the Baybayin Neue Font Software.
+This information should be distributed along with the Baybayin Neue fonts
+and any derivative works.
+
+
+Basic Font Information
+
+
+Copyright © 2022 by John Abila. Hello@JohnAbila.com
+
+
+Baybayin Neue is a Unicode typeface family that supports the Filipino Tagalog language. This typeface follows the Filipino Baybayin  B17 and B17+  writing standards. 
+
+
+More specifically, this release supports the following Unicode ranges:
+U+1700–U+171F
+
+
+This release contains 16 font variations:
+BaybayinNeue-Black.otf
+BaybayinNeue-BlackOblique.otf
+BaybayinNeue-Bold.otf
+BaybayinNeue-BoldOblique.otf
+BaybayinNeue-Light.otf
+BaybayinNeue-LightOblique.otf
+BaybayinNeue-Medium.otf
+BaybayinNeue-MediumOblique.otf
+BaybayinNeue-Regular.otf
+BaybayinNeue-RegularOblique.otf
+BaybayinNeue-Thin.otf
+BaybayinNeue-ThinOblique.otf
+BaybayinNeue-UltraBold.otf
+BaybayinNeue-UltraBoldOblique.otf
+BaybayinNeue-Ultralight.otf
+BaybayinNeue-UltralightOblique.otf
+
+
+Documentation can be found at https://www.kickstarter.com/projects/johnabila/baybayin-neue-the-modern-font-of-a-ancient-filipino-script?ref=6bbj9u&token=9c1f4c44
+https://johnabila.com/project/baybayinneue/
+
+
+ChangeLog
+
+
+November 9, 2022 (John Abila) Baybayin Neue Version 1.003
+- Third release
+- Updated Copyright Information & Description
+- Revised naming convention for the 700 "Ultra Bold" font weight
+- Revised separator Widths across entire typeface
+
+
+
+October 14, 2022 (John Abila) Baybayin Neue Version 1.002
+- Second release
+- Introduced 4 New Font Weights
+- New font weight 100 "Thin" & "Thin Oblique"
+- New font weight 900 "Black" & "Black Oblique"
+- Revised font weight 700 "Ultrabold" into "Ultra Bold"
+- Revised font weight 200 "Thin" into "Ultra Light"
+- Fine-tuned vector nodes and extremes throughout the entire typeface
+- Updated Copyright Information & Description
+- 62+ New Unique Kerning Pairs
+
+
+
+August 23, 2022 (John Abila) Baybayin Neue Version 1.001
+- Initial release
+- Introduced 12 Font Weights 
+- Introduced Tagalog Unicode Glyphs “U+1700–U+171F”
+- 142+ Unique Kerning Pairs
+
+
+Acknowledgements
+
+
+This typeface was made possible by the help of it’s 42 generous backers on kickstarter. Thank you for helping fund this project. Maraming Salamat.
+
+Baybayin Neue Kickstarter Backers:
+The Creative Fund by BackerKit
+Maria Abila
+Aretsuya
+William Catangui
+Raymond Bustamante Garcia
+BarryBuc
+Jane Zhang
+Ryan Bartlett
+Loren Aytona Arena
+Arianne Domingo
+John Guleng
+Duncan Geere
+Joseph Enaje
+Samantha Mok
+Richard A Williams
+April Guleng
+Camille
+Rafael
+Eunice Hilario
+Michael Adion
+Angela Ip
+Hajira
+Stefan Kruger
+Syl
+Silvia Gonzalez
+Josiah
+Shalina Bianca Baysan
+Jedidiah Maramba
+TChaves
+Julia Taylor
+Char
+Danielle Abila
+Anna
+Phil Nacionales
+Tamye Riggs
+Sarah L.
+Paul Bergeron
+K
+ERICSON
+Martin Julius Villangca Perez
+Beatrice De Vera
+Lesly
